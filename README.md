@@ -1,16 +1,80 @@
-## Hi there 👋
+<!-- Cover Image -->
+<p align="center">
+  <img src="cover.png" alt="cover" width="100%" />
+</p>
 
-<!--
-**Sahilsajar/Sahilsajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there 👋, I'm Sahil Sajar</h1>
+<h3 align="center">🚀 Software Developer | Web Developer | Test Automation Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+- 🎓 B.Tech in Computer Science  
+- 💻 1+ years of experience in **Web Development & Test Automation**  
+- 🛠 Skilled in building **scalable apps** & writing **clean, efficient code**  
+- ⚡ Exploring **DevOps & Cloud-native tools**  
+- 🎯 Goal: Solve real-world problems with technology  
+
+---
+
+### 💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+---
+
+### 📚 Frameworks / Libraries  
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+---
+
+### 🧪 Testing Tools  
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+</p>
+
+---
+
+### 🛠 Other Tools  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilsajar&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilsajar&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
+
+---
+
+### 🔗 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-sajar-141784224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mithaleshkumarmk01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- <a href="https://mithalesh.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a> -->
+</p>
+
+---
+
+⭐️ From [Sahil Sajar](https://github.com/Sahilsajar)
